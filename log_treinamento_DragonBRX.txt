@@ -1,2 +1,0 @@
-Modelo treinado em 20250219_161743
-Acurácia final: 0.98
