@@ -30,3 +30,9 @@ Correção: Júpiter
 P: quem e nobru
 R: Esta é uma resposta padrão. Por favor, valide ou corrija.
 Correção: Pergunta escrita incorretamente: acho que você quis dizer : quem é nobru    Bruno Goes dos Santos, conhecido como Nobru, é um influenciador digital, streamer e jogador profissional brasileiro de Free Fire. Nascido em São Paulo em 20 de janeiro de 2001, Nobru ganhou destaque no cenário de eSports ao se tornar o melhor jogador de Free Fire do mundo em 2019, quando representava o Corinthians e conquistou títulos como a Free Fire Pro League Brasil 2019 e o Free Fire World Series 2019.   Além de sua carreira como jogador, Nobru é co-fundador da organização de eSports Fluxo, que possui equipes em diversas modalidades de jogos eletrônicos. Ele também é embaixador de marcas renomadas, incluindo TikTok, Casas Bahia, iFood, Razer e Lacoste.   Em 2021, Nobru foi reconhecido na lista Under 30 da revista Forbes, destacando-se como um dos principais influenciadores digitais do Brasil.
+
+
+=== Sessão iniciada em: 2025-02-19 17:06:20 ===
+P: Quem escreveu Dom Quixote?
+R: Esta é uma resposta padrão. Por favor, valide ou corrija.
+Correção: Miguel de Cervantes.
