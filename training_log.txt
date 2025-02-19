@@ -1,3 +1,3 @@
-Treinamento concluído em: 2025-02-19 17:05:18.057327
+Treinamento concluído em: 2025-02-19 17:06:19.271646
 Acurácia final: 0.93
-Loss final: 0.25
+Loss final: 0.26
